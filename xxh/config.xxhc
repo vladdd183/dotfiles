@@ -1,0 +1,8 @@
+hosts:
+  ".*":
+    +s: xonsh
+    +if:
+    +hhr:
+    +I:
+      - xxh-plugin-prerun-dotfiles+path+/home/ubuntu/.config/xxh/xxh-plugin-prerun-dotfiles
+    #  - xxh-plugin-prerun-dotfiles+git+https://github.com/vladdd183/xxh-plugin-prerun-dotfiles

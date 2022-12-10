@@ -1,0 +1,9 @@
+
+   # +s: xonsh
+    +hhr: # remove host xxh home
+    +if:
+    # - xxh-shell-xonsh
+    # - xxh-plugin-prerun-core
+    # - xxh-plugin-prerun-zoxide
+    #  - xxh-plugin-prerun-dotfiles+git+https://github.com/vladdd183/xxh-plugin-prerun-dotfiles
+    # +e: - ENV="ENV"
